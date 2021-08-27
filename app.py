@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     #st.image()
     
-    st.sidebar.image('/Users/kaushikshakkari/Downloads/CX.png', width=200, use_column_width=True)
+    st.sidebar.image('CX.png', width=200, use_column_width=True)
     
     #st.sidebar.markdown(LOGO, unsafe_allow_html=True)
     
